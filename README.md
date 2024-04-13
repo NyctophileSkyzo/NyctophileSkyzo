@@ -49,7 +49,5 @@
     </a>
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathVaskyloClearesta&show_icons=true&locale=en&layout=compact" alt="NathVaskyloClearesta" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NathVaskyloClearesta&show_icons=true&locale=en" alt="NathVaskyloClearesta" /></p>
