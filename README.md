@@ -1,11 +1,17 @@
-![readmebox](https://github.com/NathVaskyloClearesta/NathVaskyloClearesta/blob/main/asset/readmebox.svg)
+<p align="center">
+  <img src="https://github.com/NathVaskyloClearesta/NathVaskyloClearesta/blob/main/asset/readmebox.svg" alt="readmebox">
+</p>
 
 <h1 align="center">Hi 👋, I'm Ferly Afriliyan</h1>
 <h3 align="center"> Only stupid Children always Hope!!</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NathVaskyloClearesta&label=Profile+Views&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NathVaskyloClearesta&label=Profile+Views&style=flat-square&color=blue" alt="Profile Views">
+</p>
 
-<img align="right" alt="Coding" width="250" height="400" src="asset/my_picture.jpg">
+<p align="center">
+  <img align="right" alt="Coding" width="250" height="400" src="asset/my_picture.jpg">
+</p>
 
 - 👨‍💻 You can also check out my portfolio at [Ferly Afriliyan](https://ferlyafriliyan.vercel.app/)
 
@@ -19,7 +25,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/NathVaskyloClearesta)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/freya.xyz)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/__y.zxekii)
-
 
 </p>
 
