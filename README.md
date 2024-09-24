@@ -15,7 +15,7 @@
 
 - 👨‍💻 You can also check out my portfolio at [Ferly Afriliyan](https://ferlyafriliyan.vercel.app/)
 
-- 📫 How to reach me **ferlyafrliyn@gmail.com**
+- 📫 How to reach me **trytoloveurself@gmail.com**
 
 - ⚡ Fun fact **Stupid kid**
 
@@ -24,7 +24,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/NyctophileSkyzo)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/freya.xyz)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/__y.zxekii)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/xy.ryougaa)
 
 </p>
 
